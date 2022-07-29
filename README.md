@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Charles Kombe</h1>
 <h3 align="center">A passionate frontend developer trying stuffs</h3>
 
-<img align="right" alt="Coding" width="400" src="https://storyset.com/illustration/javascript-frameworks/pana">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1270214/screenshots/9882561/media/faa22b667e8fe62436d39f1811502461.png?compress=1&resize=1200x900&vertical=top">
 
 - 🔭 I’m currently working on **A task management web application for local service providers**
 
